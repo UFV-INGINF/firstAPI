@@ -1,0 +1,21 @@
+{
+  "nombre": "Nacho",
+  "apellido": "Gonzalez",
+  "edad": 25,
+  "direccion": {
+    "calle": "Calle 1",
+    "numero": 123,
+    "piso": 1,
+    "departamento": "A"
+  },
+  "telefono": [
+    {
+      "tipo": "celular",
+      "numero": "123456789"
+    },
+    {
+      "tipo": "casa",
+      "numero": "123456789"
+    }
+  ]
+}

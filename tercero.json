@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "DIS",
+    "cuatrimestre": "primero"
+  },
+  {
+    "nombre": "COCO",
+    "cuatrimestre": "primero"
+  },
+  {
+    "nombre": "IA2",
+    "cuatrimestre": "segundo"
+  },
+  {
+    "nombre": "Ética",
+    "cuatrimestre": "anual"
+  },
+  {
+    "nombre": "Hablar en Público",
+    "cuatrimestre": "segundo"
+  },
+  {
+    "nombre": "PGPI",
+    "cuatrimestre": "anual"
+  }
+]
